@@ -1,0 +1,2 @@
+# imageInMarkdownNote
+本仓库存储由VS code编写的markdown笔记中插入的图片
